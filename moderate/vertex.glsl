@@ -1,7 +1,8 @@
+
 #version 120
 
 // ─────────────────────────────────────────────────────────────────
-//  Legacy Shaders — Moderate — Vertex
+//  Legacy Shaders — Moderate — Vertex  (v2)
 //  GLSL 1.20.
 //
 //  Forwards view-space position and normal to the fragment stage
